@@ -102,6 +102,7 @@ button{
     margin: auto;
     text-align: center;
     justify-content: center;
+    padding-bottom: 70px;
 }
 .logo1{
     width: 25%;
@@ -120,4 +121,23 @@ button{
     background-color: #FFF4D6;
     height: 300px;
     margin-right: 20px;
+}
+.half-width{
+    width: 40%;
+    padding-right: 20px;
+}
+.h2-font{
+    font-size: 40px;
+}
+.update{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+.form{
+    width: 700px;
+    height: 200px;
+    background-color: #FFF4D6;
+    margin-left: 300px;
 }
