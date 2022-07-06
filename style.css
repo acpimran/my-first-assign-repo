@@ -26,8 +26,7 @@ body{
 
 }
 .headline2{
-    font-size: 70px;
-    color: white;
+    font-size: 48px;
 }
 .donate-now{
     text-align: center;
@@ -35,7 +34,7 @@ body{
 }
 .donate-div{
     color: black;
-    height: 700px;
+    height: 500px;
     width: 100%;
 }
 .txt-center{
@@ -92,4 +91,33 @@ button{
     border: none;
     padding: 15px 15px;
     border-radius: 5px;
+}
+.section{
+    height: auto;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.flex-div{
+    display: flex;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+.logo1{
+    width: 25%;
+    background-color: #EDF5F6;
+    height: 300px;
+    margin-right: 20px;
+}
+.logo2{
+    width: 25%;
+    background-color: #FFEEEE;
+    height: 300px;
+    margin-right: 20px;
+}
+.logo3{
+    width: 25%;
+    background-color: #FFF4D6;
+    height: 300px;
+    margin-right: 20px;
 }
