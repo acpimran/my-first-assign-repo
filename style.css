@@ -29,3 +29,67 @@ body{
     font-size: 70px;
     color: white;
 }
+.donate-now{
+    text-align: center;
+
+}
+.donate-div{
+    color: black;
+    height: 700px;
+    width: 100%;
+}
+.txt-center{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.price-parent{
+    display:flex;
+    text-align: center;
+  padding-left: 50px;
+    justify-content: center;
+    margin: 70px;
+}
+.price-child{
+    color: #707070;
+    width: 100px;
+    height: 60px;
+    background-color: #FAFAFA;
+    margin-right: 20px;
+    font-size: 30px;
+    
+    padding-top: 30px;
+}
+.donate-now{
+    font-size: 50px;
+}
+.red{
+    background-color: #FFEEEE;
+    border: 2px solid #FFA0A0;
+}
+.input{
+    width: 400px;
+    border: none;
+    border-bottom: 2px solid #DADADA;
+    margin: 0 100px 0 100px;
+    font-size: 20px;
+    padding-left: 300px;
+    padding-bottom: 15px;
+}
+.input-div{
+    text-align: center;
+}
+.button-div{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+button{
+    font-size: 20px;
+    color: white;
+    background-color: #FFA0A0;
+    border: none;
+    padding: 15px 15px;
+    border-radius: 5px;
+}
