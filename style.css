@@ -135,9 +135,31 @@ button{
     justify-content: center;
     padding-bottom: 70px;
 }
+
 .form{
     width: 700px;
-    height: 200px;
+    height: 150px;
     background-color: #FFF4D6;
     margin-left: 300px;
+    padding-top: 80px;
 }
+.infield{
+    width: 300px;
+    height: 40PX;
+    background-color: #D9D9D9;
+    border: none;
+    }
+    .footer{
+        background-color: #0B0D17;
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .footer{
+        font-family: 'The Nautigal', cursive;
+        
+    }
+   .foot-p{
+        font-size: 24px;
+        color: white;
+    }
